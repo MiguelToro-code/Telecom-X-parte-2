@@ -6,10 +6,6 @@
     <strong>Modelo de machine learning para predecir abandono de clientes</strong>
   </p>
   
-  <div align="center">
-    <img src="https://drive.google.com/uc?id=TU_ID_DE_IMAGEN_1" alt="Flujo del proyecto" width="400">
-  </div>
-
   <!-- Tabla de Contenidos -->
   <h2>📚 Tabla de Contenidos</h2>
   <ul>
