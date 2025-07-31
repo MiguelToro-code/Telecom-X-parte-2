@@ -48,7 +48,7 @@ Probaremos:
 *   RandomForestClassifier
    </p>
 
- <h2 id="descripcion">🧠 Objetivos del Desafío</h2>
+ <h2 id="ibjetivos">🧠 Objetivos del Desafío</h2>
 <p>
 
 Preparar los datos para el modelado (tratamiento, codificación, normalización).
