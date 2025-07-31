@@ -67,7 +67,7 @@ Crear una conclusión estratégica señalando los principales factores que influ
   <!-- Tecnologías Utilizadas -->
   <h2 id="tecnologias">💻 Tecnologías Utilizadas</h2>
   <ul>
-    <li><strong>Python 3.9</strong> - Lenguaje principal</li>
+    <li><strong>Python 3.11.13</strong> - Lenguaje principal</li>
     <li><strong>Scikit-learn</strong> - Machine Learning</li>
     <li><strong>Pandas & NumPy</strong> - Manipulación de datos</li>
     <li><strong>Matplotlib & Seaborn</strong> - Visualización</li>
