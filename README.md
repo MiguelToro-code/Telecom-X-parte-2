@@ -28,9 +28,9 @@
   <h2 id="descripcion">🔍 Descripción del Desafío</h2>
   <p>
     Este desafío consiste en desarrollar un modelo predictivo de machine learning para identificar clientes 
-    con alta probabilidad de abandonar un servicio (churn). 
-    El modelo final alcanza un 85% de precisión 
-    utilizando un enfoque de Random Forest con optimización de hiperparámetros.
+    con alta probabilidad de abandonar un servicio (churn).  </p>
+  <p>
+    La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado. </p>
   </p>
   <div align="center">
     <img src="https://drive.google.com/uc?id=TU_ID_DE_IMAGEN_2" alt="Arquitectura del modelo" width="600">
