@@ -149,10 +149,6 @@ modelo-churn/
     <li>Abre un Pull Request</li>
   </ol>
 
-  <!-- Licencia -->
-  <h2 id="licencia">📜 Licencia</h2>
-  <p>Este proyecto está bajo la licencia MIT - ver el archivo <a href="LICENSE">LICENSE</a> para más detalles.</p>
-
   <!-- Contacto -->
   <h2>📧 Contacto</h2>
   <p>
