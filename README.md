@@ -12,7 +12,6 @@
     <li><a href="#descripcion">Descripción del Desafío</a></li>
     <li><a href="#ibjetivos">Objetivos del desafío</a></li>
     <li><a href="#tecnologias">Tecnologías Utilizadas</a></li>
-    <li><a href="#instalacion">Instalación</a></li>
     <li><a href="#uso">Uso del Modelo</a></li>
     <li><a href="#resultados">Resultados y Métricas</a></li>
     <li><a href="#estructura">Estructura del Proyecto</a></li>
@@ -69,24 +68,6 @@ Crear una conclusión estratégica señalando los principales factores que influ
     <li><strong>Matplotlib & Seaborn</strong> - Visualización</li>
     <li><strong>Google Colab</strong> - Entorno de ejecución</li>
   </ul>
-
-  <!-- Instalación -->
-  <h2 id="instalacion">⚙️ Instalación</h2>
-  <p>Para ejecutar este proyecto localmente:</p>
-  
-  <pre><code># Clonar el repositorio
-git clone https://github.com/tuusuario/modelo-churn.git
-
-# Crear entorno virtual (recomendado)
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate    # Windows
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Ejecutar Jupyter Notebook
-jupyter notebook</code></pre>
 
   <!-- Uso del Modelo -->
   <h2 id="uso">🎯 Uso del Modelo</h2>
