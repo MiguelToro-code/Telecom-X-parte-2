@@ -47,6 +47,22 @@ Probaremos:
 *   DecisionTreeClassifier
 *   RandomForestClassifier
    </p>
+
+ <h2 id="descripcion">🧠 Objetivos del Desafío</h2>
+<p>
+
+Preparar los datos para el modelado (tratamiento, codificación, normalización).
+<p>
+Realizar análisis de correlación y selección de variables.
+<p>
+Entrenar dos o más modelos de clasificación.
+<p>
+Evaluar el rendimiento de los modelos con métricas.
+<p>
+Interpretar los resultados, incluyendo la importancia de las variables.
+<p>
+Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
+</p>
    
   <!-- Tecnologías Utilizadas -->
   <h2 id="tecnologias">💻 Tecnologías Utilizadas</h2>
