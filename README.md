@@ -13,7 +13,8 @@
   <!-- Tabla de Contenidos -->
   <h2>📚 Tabla de Contenidos</h2>
   <ul>
-    <li><a href="#descripcion">Descripción del Proyecto</a></li>
+    <li><a href="#descripcion">Descripción del Desafío</a></li>
+    <li><a href="#ibjetivos">Objetivos del desafío</a></li>
     <li><a href="#tecnologias">Tecnologías Utilizadas</a></li>
     <li><a href="#instalacion">Instalación</a></li>
     <li><a href="#uso">Uso del Modelo</a></li>
@@ -24,10 +25,11 @@
   </ul>
 
   <!-- Descripción del Proyecto -->
-  <h2 id="descripcion">🔍 Descripción del Proyecto</h2>
+  <h2 id="descripcion">🔍 Descripción del Desafío</h2>
   <p>
-    Este proyecto desarrolla un modelo predictivo de machine learning para identificar clientes 
-    con alta probabilidad de abandonar un servicio (churn). El modelo final alcanza un 85% de precisión 
+    Este desafío consiste en desarrollar un modelo predictivo de machine learning para identificar clientes 
+    con alta probabilidad de abandonar un servicio (churn). 
+    El modelo final alcanza un 85% de precisión 
     utilizando un enfoque de Random Forest con optimización de hiperparámetros.
   </p>
   <div align="center">
