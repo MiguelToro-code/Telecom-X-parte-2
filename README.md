@@ -35,10 +35,15 @@
   
    <p>
 🧠 <font color=red size=4>Este es un problema de clasificación binaria.</font>
+     
 🔷 Variable objetivo binaria (Churn = 1 o 0):
+
 ¿El cliente se irá o no?
+
 ✅ Modelos recomendados: Modelos de clasificación.
+
 Probaremos:
+
 *   DecisionTreeClassifier
 *   RandomForestClassifier
    </p>
