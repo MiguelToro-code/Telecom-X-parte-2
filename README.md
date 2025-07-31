@@ -32,22 +32,17 @@
   <p>
     La empresa quiere anticiparse al problema de la cancelación, y debemos construir un pipeline robusto para esta etapa inicial de modelado. </p>
   </p>
+  
    <p>
 🧠 <font color=red size=4>Este es un problema de clasificación binaria.</font>
-
 🔷 Variable objetivo binaria (Churn = 1 o 0):
 ¿El cliente se irá o no?
-
-
 ✅ Modelos recomendados: Modelos de clasificación.
-
 Probaremos:
-
 *   DecisionTreeClassifier
 *   RandomForestClassifier
-
    </p>
-
+   
   <!-- Tecnologías Utilizadas -->
   <h2 id="tecnologias">💻 Tecnologías Utilizadas</h2>
   <ul>
@@ -55,7 +50,6 @@ Probaremos:
     <li><strong>Scikit-learn</strong> - Machine Learning</li>
     <li><strong>Pandas & NumPy</strong> - Manipulación de datos</li>
     <li><strong>Matplotlib & Seaborn</strong> - Visualización</li>
-    <li><strong>Jupyter Notebook</strong> - Análisis exploratorio</li>
     <li><strong>Google Colab</strong> - Entorno de ejecución</li>
   </ul>
 
