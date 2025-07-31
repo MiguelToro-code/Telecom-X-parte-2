@@ -1,8 +1,8 @@
 
 # 📊 Proyecto de Predicción de Abandono de Clientes (Churn)
 
-**Autor:** [Tu Nombre o Usuario de GitHub]  
-**Fecha:** [Fecha del proyecto]  
+**Autor:** Miguel Ángel Toro Romo  
+**Fecha:** 8-ago-2025  
 
 ---
 
