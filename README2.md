@@ -61,6 +61,7 @@ Telecom_X_part_2
 ├── output/         # Gráficos generados por scripts
 │   ├── exploratory/
 │   └── results/
+├── models/         # modelos generados
 ├── docs/           # Documentación
 │   ├── figures/    # Gráficos para documentos
 │   └── report.md
