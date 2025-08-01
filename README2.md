@@ -107,11 +107,15 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 ### 📈 Importancia de Variables
 
-![Importancia de variables](https://drive.google.com/uc?export=view&id=1E7Fv6JqBvJcV2-i07TrgM6vHe3GSbMx2)
-
 <img src="https://drive.google.com/uc?export=view&id=1E7Fv6JqBvJcV2-i07TrgM6vHe3GSbMx2" 
      alt="Importancia de variables" 
      style="width:80%; max-width:600px; display:block; margin:0 auto;" />
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1E7Fv6JqBvJcV2-i07TrgM6vHe3GSbMx2" 
+       alt="Importancia de variables" 
+       width="500" />
+</p>
 
 ---
 
