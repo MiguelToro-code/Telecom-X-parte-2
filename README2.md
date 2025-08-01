@@ -95,6 +95,8 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 - Balanceo de clases con `class_weight='balanced'`
 - Validación cruzada (`StratifiedKFold`)
 
+---
+
 ### 🔢 Métricas
 
 🔷 DecisionTreeClassifier con datos balanceados.
@@ -124,6 +126,7 @@ weighted avg       0.78      0.76      0.76      1409
 weighted avg       0.79      0.71      0.73      1409
 
 ```
+---
 
 ## 🧪 Modelo Seleccionado
 
@@ -171,6 +174,7 @@ weighted avg       0.79      0.71      0.73      1409
        alt="Importancia de variables" 
        width="600" />
 </p>
+
 ---
 
 ## 📦 Uso del Modelo Exportado
