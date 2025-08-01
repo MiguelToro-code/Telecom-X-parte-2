@@ -100,10 +100,6 @@ Probaremos:
        width="700" />
 </p>
 
-<p>
- 
-</p>
-
 ### ✅ Es un conjunto de datos muy desbalanceado en sus categorías de la variable objetivo Churn
 
 
