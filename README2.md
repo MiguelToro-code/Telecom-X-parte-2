@@ -54,20 +54,17 @@ Crear una conclusión estratégica señalando los principales factores que influ
 ## 📂 Estructura del Repositorio
 
 ```
-mi-proyecto/
+Telecom_X_part_2
 ├── data/           # Datos crudos
-├── notebooks/      # Jupyter/Colab
+├── notebooks/      # Colab
 ├── src/            # Código fuente
 ├── output/         # Gráficos generados por scripts
-│   ├── exploratorio/
-│   │   └── histograma_edad.png
-│   └── resultados/
-│       └── modelo_accuracy.png
+│   ├── exploratory/
+│   └── results/
 ├── docs/           # Documentación
 │   ├── figures/    # Gráficos para documentos
-│   │   └── arquitectura.png
-│   └── reporte.md
-└── README.md       # ¡Menciona dónde están los gráficos!
+│   └── report.md
+└── README.md      
 ```
 
 ---
