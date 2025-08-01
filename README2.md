@@ -105,21 +105,21 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 ---
 ### 📈 Variables Categóricas iniciales
 
-`gender: 'Female', 'Male'`
-`Partner: 'Yes', 'No'`
-`Dependents: 'Yes', 'No'`
-`PhoneService: 'Yes', 'No'`
-`MultipleLines: 'No', 'Yes', 'No phone service'`
-`InternetService: 'DSL', 'Fiber optic', 'No'`
-`OnlineSecurity: 'No', 'Yes', 'No internet service'`
-`OnlineBackup: 'Yes', 'No', 'No internet service'`
-`DeviceProtection: 'No', 'Yes', 'No internet service'`
-`TechSupport: 'Yes', 'No', 'No internet service'`
-`StreamingTV: 'Yes', 'No', 'No internet service'`
-`StreamingMovies: 'No', 'Yes', 'No internet service'`
-`Contract: 'One year' 'Month-to-month', 'Two year'`
-`PaperlessBilling: 'Yes', 'No'`
-`PaymentMethod: 'Mailed check', 'Electronic check', 'Credit card (automatic)',  'Bank transfer (automatic)'`
+- `gender: 'Female', 'Male'`
+- `Partner: 'Yes', 'No'`
+- `Dependents: 'Yes', 'No'`
+- `PhoneService: 'Yes', 'No'`
+- `MultipleLines: 'No', 'Yes', 'No phone service'`
+- `InternetService: 'DSL', 'Fiber optic', 'No'`
+- `OnlineSecurity: 'No', 'Yes', 'No internet service'`
+- `OnlineBackup: 'Yes', 'No', 'No internet service'`
+- `DeviceProtection: 'No', 'Yes', 'No internet service'`
+- `TechSupport: 'Yes', 'No', 'No internet service'`
+- `StreamingTV: 'Yes', 'No', 'No internet service'`
+- `Streaming Movies: 'No', 'Yes', 'No internet service'`
+- `Contract: 'One year' 'Month-to-month', 'Two year'`
+- `PaperlessBilling: 'Yes', 'No'`
+- `PaymentMethod: 'Mailed check', 'Electronic check', 'Credit card (automatic)',  'Bank transfer (automatic)'`
 
 
 ### 📈 Importancia de Variables codificadas
