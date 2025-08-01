@@ -96,7 +96,21 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 - Balanceo de clases con `class_weight='balanced'`
 - Validación cruzada (`StratifiedKFold`)
 
+### 🔢 Métricas
 
+🔷 DecisionTreeClassifier con datos balanceados.
+
+```
+              precision    recall  f1-score   support
+
+           0       0.86      0.79      0.83      1035
+           1       0.53      0.66      0.59       374
+
+    accuracy                           0.76      1409
+   macro avg       0.70      0.72      0.71      1409
+weighted avg       0.78      0.76      0.76      1409
+
+```
 
 ## 🧪 Modelo Seleccionado
 
@@ -146,12 +160,7 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 </p>
 ---
 
-### 🔢 Métricas
 
-| Modelo                 | Precisión | Recall | F1-Score |
-|------------------------|-----------|--------|----------|
-| Random Forest          | 0.78      | 0.70   | 0.74     |
-| Decision Tree          | 0.74      | 0.66   | 0.69     |
 
 ---
 
