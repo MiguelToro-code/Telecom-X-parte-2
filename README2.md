@@ -100,7 +100,7 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 ## 🧪 Modelo Seleccionado RandomForestClassifier
 
-En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo RandomForestClassifier como más eficiente
+- En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo RandomForestClassifier como más eficiente.
 
 ---
 
