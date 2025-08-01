@@ -1,5 +1,5 @@
 
-# 📊 Desafío Telecom X (parte 2)
+# 🎯 Desafío Telecom X (parte 2)
 
 **Autor:** Miguel Ángel Toro Romo  
 **Fecha:** 8-ago-2025  
