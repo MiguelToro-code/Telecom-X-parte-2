@@ -6,9 +6,12 @@
 
 ---
 
-## 🧠 Descripción del Proyecto
+## 🧠 Descripción del Desafío
 
 Este proyecto tiene como objetivo construir un modelo de clasificación que prediga si un cliente abandonará o no los servicios de la compañía, a partir de sus características sociodemográficas y de uso de servicios.
+
+La empresa quiere anticiparse al problema de la cancelación, y debemos construir un pipeline robusto para esta etapa inicial de modelado.
+
 
 ---
 
