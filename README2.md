@@ -100,8 +100,10 @@ Probaremos:
        width="700" />
 </p>
 
-
-✅ Es un conjunto de datos muy desbalanceado en sus categorías de la variable objetivo Churn
+<p>
+ 
+</p>
+### ✅ Es un conjunto de datos muy desbalanceado en sus categorías de la variable objetivo Churn
 
 
 ### 📈 Variables Categóricas iniciales
@@ -270,4 +272,4 @@ Telecom_X_part_2
 ---
 ## 📫 Contacto
 
-Para consultas o colaboración: [tu.email@ejemplo.com](mailto:tu.miguel.toro.romo@gmail.com)
+Para consultas o colaboración: [miguel.toro.romo@gmail.com](mailto:miguel.toro.romo@gmail.com)
