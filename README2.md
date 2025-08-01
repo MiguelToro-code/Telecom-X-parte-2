@@ -117,8 +117,32 @@ Telecom_X_part_2
        width="700" />
 </p>
 
+
 ✅ Es un conjunto de datos muy desbalanceado en sus categorías de la variable objetivo Churn
 
+
+### 📈 Variables Categóricas iniciales
+
+- `gender: 'Female', 'Male'`
+- `Partner: 'Yes', 'No'`
+- `Dependents: 'Yes', 'No'`
+- `PhoneService: 'Yes', 'No'`
+- `MultipleLines: 'No', 'Yes', 'No phone service'`
+- `InternetService: 'DSL', 'Fiber optic', 'No'`
+- `OnlineSecurity: 'No', 'Yes', 'No internet service'`
+- `OnlineBackup: 'Yes', 'No', 'No internet service'`
+- `DeviceProtection: 'No', 'Yes', 'No internet service'`
+- `TechSupport: 'Yes', 'No', 'No internet service'`
+- `StreamingTV: 'Yes', 'No', 'No internet service'`
+- `Streaming Movies: 'No', 'Yes', 'No internet service'`
+- `Contract: 'One year' 'Month-to-month', 'Two year'`
+- `PaperlessBilling: 'Yes', 'No'`
+- `PaymentMethod: 'Mailed check', 'Electronic check', 'Credit card (automatic)',  'Bank transfer (automatic)'`
+
+### 📈 Variables Numéricas iniciales
+
+- `Charges.Monthly: valores decimales mayores que cero`
+- `Charges.Total: valores decimales mayores que cero'`
 ---
 
 ## 🧪 Evaluación de Modelos
@@ -173,28 +197,7 @@ weighted avg       0.79      0.71      0.73      1409
 - En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo **`RandomForestClassifier`** como más eficiente para la clasificación de la clase 1 (clientes que abandonan).
 
 ---
-### 📈 Variables Categóricas iniciales
 
-- `gender: 'Female', 'Male'`
-- `Partner: 'Yes', 'No'`
-- `Dependents: 'Yes', 'No'`
-- `PhoneService: 'Yes', 'No'`
-- `MultipleLines: 'No', 'Yes', 'No phone service'`
-- `InternetService: 'DSL', 'Fiber optic', 'No'`
-- `OnlineSecurity: 'No', 'Yes', 'No internet service'`
-- `OnlineBackup: 'Yes', 'No', 'No internet service'`
-- `DeviceProtection: 'No', 'Yes', 'No internet service'`
-- `TechSupport: 'Yes', 'No', 'No internet service'`
-- `StreamingTV: 'Yes', 'No', 'No internet service'`
-- `Streaming Movies: 'No', 'Yes', 'No internet service'`
-- `Contract: 'One year' 'Month-to-month', 'Two year'`
-- `PaperlessBilling: 'Yes', 'No'`
-- `PaymentMethod: 'Mailed check', 'Electronic check', 'Credit card (automatic)',  'Bank transfer (automatic)'`
-
-### 📈 Variables Numéricas iniciales
-
-- `Charges.Monthly: valores decimales mayores que cero`
-- `Charges.Total: valores decimales mayores que cero'`
 
 
 ### 📈 Importancia de Variables codificadas
