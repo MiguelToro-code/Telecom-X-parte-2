@@ -117,6 +117,8 @@ Telecom_X_part_2
        width="700" />
 </p>
 
+✅ Es un conjunto de datos muy desbalanceado en sus categorías de la variable objetivo Churn
+
 ---
 
 ## 🧪 Evaluación de Modelos
