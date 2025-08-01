@@ -176,7 +176,8 @@ weighted avg       0.79      0.71      0.73      1409
 
 ## ✔️ Modelo Seleccionado
 
-- En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo **`RandomForestClassifier`** como más eficiente para la clasificación de la clase 1 (clientes que abandonan).
+### **`RandomForestClassifier`**
+- En función de las métricas obtenidas en los entrenamientos de los modelos, se elige este modelo como el más eficiente para la clasificación de la clase 1 (clientes que abandonan).
 - Mejores parámetros RandomForest:
   -   'max_depth': 5
   -   'min_samples_leaf': 3
