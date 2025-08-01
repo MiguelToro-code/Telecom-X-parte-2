@@ -114,7 +114,7 @@ Telecom_X_part_2
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1jMXJjFdtjY5aZP7DzgRv-3jmNLmWNpm4" 
        alt="Importancia de variables" 
-       width="600" />
+       width="700" />
 </p>
 
 ---
