@@ -92,7 +92,7 @@ Modelos evaluados:
 Se construyó un pipeline completo para cada modelo que incluyen:
 
 - Eliminación de columnas irrelevantes (`customerID`, `tenure`)
-- Codificación categórica con `OneHotEncoder` para RandomForestClassifier y `SMOTE` para DecisionTreeClassifier
+- Codificación categórica con `OneHotEncoder` para `RandomForestClassifier` y `SMOTE` para `DecisionTreeClassifier`
 - Balanceo de clases con `class_weight='balanced'`
 - Validación cruzada (`StratifiedKFold`)
 
@@ -107,7 +107,9 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 ### 📈 Importancia de Variables
 
-![Importancia de variables](https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN_IMPORTANCIA)
+![Importancia de variables](https://drive.google.com/file/d/1E7Fv6JqBvJcV2-i07TrgM6vHe3GSbMx2/view?usp=drive_link)
+
+
 
 ---
 
