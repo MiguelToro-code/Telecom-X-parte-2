@@ -54,11 +54,20 @@ Crear una conclusión estratégica señalando los principales factores que influ
 ## 📂 Estructura del Repositorio
 
 ```
-├── notebooks/          # Cuadernos Jupyter de desarrollo y validación
-├── data/               # Datos crudos y preprocesados
-├── models/             # Modelos entrenados (Pickle)
-├── scripts/            # Scripts reutilizables
-├── README.md           # Este archivo
+mi-proyecto/
+├── data/           # Datos crudos
+├── notebooks/      # Jupyter/Colab
+├── src/            # Código fuente
+├── output/         # Gráficos generados por scripts
+│   ├── exploratorio/
+│   │   └── histograma_edad.png
+│   └── resultados/
+│       └── modelo_accuracy.png
+├── docs/           # Documentación
+│   ├── figures/    # Gráficos para documentos
+│   │   └── arquitectura.png
+│   └── reporte.md
+└── README.md       # ¡Menciona dónde están los gráficos!
 ```
 
 ---
