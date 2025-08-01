@@ -139,7 +139,7 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 ### 🔢 Métricas
 
-🔷 DecisionTreeClassifier con datos balanceados.
+🔷 DecisionTreeClassifier con datos balanceados con `SMOTE`.
 
 ```
               precision    recall  f1-score   support
@@ -154,7 +154,7 @@ weighted avg       0.78      0.76      0.76      1409
 ```
 
 
-🔷RandomForestClassifier.
+🔷RandomForestClassifier con `class_weight='balanced`.
 ```
               precision    recall  f1-score   support
 
