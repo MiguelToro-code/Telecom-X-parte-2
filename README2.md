@@ -98,9 +98,9 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 
 
-## 🧪 Modelo Seleccionado RandomForestClassifier
+## 🧪 Modelo Seleccionado
 
-- En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo RandomForestClassifier como más eficiente.
+- En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo **`RandomForestClassifier`** como más eficiente.
 
 ---
 ### 📈 Variables Categóricas iniciales
@@ -120,6 +120,11 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 - `Contract: 'One year' 'Month-to-month', 'Two year'`
 - `PaperlessBilling: 'Yes', 'No'`
 - `PaymentMethod: 'Mailed check', 'Electronic check', 'Credit card (automatic)',  'Bank transfer (automatic)'`
+
+### 📈 Variables Numéricas iniciales
+
+- `Charges.Monthly: valores decimales mayores que cero`
+- `Charges.Total: valores decimales mayores que cero'`
 
 
 ### 📈 Importancia de Variables codificadas
