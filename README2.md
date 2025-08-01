@@ -65,7 +65,7 @@ Crear una conclusión estratégica señalando los principales factores que influ
 
 ## ⚙️ Tecnologías Utilizadas
 
-- Python 3.11.13 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> Python 3.11.13 
 - pandas, numpy
 - scikit-learn
 - imbalanced-learn
