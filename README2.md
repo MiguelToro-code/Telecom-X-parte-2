@@ -82,17 +82,19 @@ Telecom_X_part_2
 
 ## 🧪 Evaluación de Modelos
 
-Se construyó un pipeline completo que incluye:
-
-- Eliminación de columnas irrelevantes (`customerID`, `tenure`)
-- Codificación categórica con `OneHotEncoder`
-- Balanceo de clases con `class_weight='balanced'`
-- Validación cruzada (`StratifiedKFold`)
-
 Modelos evaluados:
 
 - `RandomForestClassifier`
 - `DecisionTreeClassifier`
+
+Se construyó un pipeline completo para cada modelo que incluyen:
+
+- Eliminación de columnas irrelevantes (`customerID`, `tenure`)
+- Codificación categórica con `OneHotEncoder` para RandomForestClassifier y `SMOTE` para DecisionTreeClassifier
+- Balanceo de clases con `class_weight='balanced'`
+- Validación cruzada (`StratifiedKFold`)
+
+
 
 ## 🧪 Modelo Seleccionado RandomForestClassifier
 
