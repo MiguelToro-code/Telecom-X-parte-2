@@ -32,7 +32,7 @@ Probaremos:
 
  ---
 
-## 🧠 Objetivos del Desafío
+## 🧠 Tareas del Desafío
 
 ✅ Preparar los datos para el modelado (tratamiento, codificación, normalización).
 
