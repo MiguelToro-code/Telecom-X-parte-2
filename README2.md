@@ -130,15 +130,15 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ## 🧪 Evaluación de Modelos
 
-Modelos evaluados:
+🔷 Modelos evaluados:
 
-- `RandomForestClassifier`
-- `DecisionTreeClassifier`
+ - `RandomForestClassifier`
+ - `DecisionTreeClassifier`
 
-Se construyó un pipeline completo para cada modelo que incluyen:
+🔷 Se construyó un pipeline completo para cada modelo que incluyen:
 
-- Eliminación de columnas irrelevantes (`customerID`, `tenure`)
-- Codificación categórica con `OneHotEncoder` 
+ - Eliminación de columnas irrelevantes (`customerID`, `tenure`)
+ - Codificación categórica con `OneHotEncoder` 
 - Balanceo de clases con `class_weight='balanced` para `RandomForestClassifier` y `SMOTE` para `DecisionTreeClassifier`
 - Validación cruzada (`StratifiedKFold`)
 
