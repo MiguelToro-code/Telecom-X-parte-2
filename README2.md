@@ -92,7 +92,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 'Charges.Monthly',
 'Charges.Total'
 ```
-✅ Estos registros tienen la siguiente distribución de Churn:
+### ✅ Estos registros tienen la siguiente distribución de Churn:
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1zibE0FeRSsXAllv2Q1LaKqPiueGni8z_" 
