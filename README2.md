@@ -1,5 +1,5 @@
 
-# 📊 Proyecto de Predicción de Abandono de Clientes (Churn)
+# 📊 Desafío Telecom X (parte 2)
 
 **Autor:** Miguel Ángel Toro Romo  
 **Fecha:** 8-ago-2025  
