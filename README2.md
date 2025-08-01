@@ -112,6 +112,20 @@ weighted avg       0.78      0.76      0.76      1409
 
 ```
 
+
+🔷RandomForestClassifier.
+```
+              precision    recall  f1-score   support
+
+          No       0.91      0.67      0.77      1035
+         Yes       0.47      0.81      0.60       374
+
+    accuracy                           0.71      1409
+   macro avg       0.69      0.74      0.69      1409
+weighted avg       0.79      0.71      0.73      1409
+
+```
+
 ## 🧪 Modelo Seleccionado
 
 - En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo **`RandomForestClassifier`** como más eficiente.
