@@ -71,12 +71,12 @@ Telecom_X_part_2
 
 ## ⚙️ Tecnologías Utilizadas
 
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> Python 3.11.13 
-- pandas, numpy
-- scikit-learn
-- imbalanced-learn
-- matplotlib, seaborn
-- Jupyter Notebook
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> Python 3.11.13 - Lenguaje principal
+- pandas, numpy - Manipulación de datos
+- scikit-learn - Machine Learning
+- imbalanced-learn - Machine Learning
+- matplotlib, seaborn - Visualización
+- Google Colab - Entorno de ejecución
 
 ---
 
