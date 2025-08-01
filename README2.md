@@ -131,8 +131,8 @@ Modelos evaluados:
 Se construyó un pipeline completo para cada modelo que incluyen:
 
 - Eliminación de columnas irrelevantes (`customerID`, `tenure`)
-- Codificación categórica con `OneHotEncoder` para `RandomForestClassifier` y `SMOTE` para `DecisionTreeClassifier`
-- Balanceo de clases con `class_weight='balanced'`
+- Codificación categórica con `OneHotEncoder` 
+- Balanceo de clases con `class_weight='balanced` para `RandomForestClassifier` y `SMOTE` para `DecisionTreeClassifier`
 - Validación cruzada (`StratifiedKFold`)
 
 ---
