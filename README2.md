@@ -80,11 +80,11 @@ Telecom_X_part_2
 
 ---
 
-## 🧪 Evaluación del Modelo
+## 🧪 Evaluación de Modelos
 
 Se construyó un pipeline completo que incluye:
 
-- Eliminación de columnas irrelevantes (`customerID`, `Charges.Total`, etc.)
+- Eliminación de columnas irrelevantes (`customerID`, `tenure`)
 - Codificación categórica con `OneHotEncoder`
 - Balanceo de clases con `class_weight='balanced'`
 - Validación cruzada (`StratifiedKFold`)
@@ -94,7 +94,12 @@ Modelos evaluados:
 - `RandomForestClassifier`
 - `DecisionTreeClassifier`
 
+## 🧪 Modelo Seleccionado RandomForestClassifier
+
+En función de las métricas obtenidas en los entrenamientos de los modelos, se elige el modelo RandomForestClassifier como más eficiente
+
 ---
+
 
 ### 📈 Importancia de Variables
 
