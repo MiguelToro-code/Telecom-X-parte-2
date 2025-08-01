@@ -15,13 +15,13 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ---
 
-### ✔️ Análisis de Problema.
+### 🔍 Análisis de Problema.
 
 🔷 Este es un problema de **clasificación binaria**.
 
 🔷 Variable objetivo binaria (Churn = 1 o 0): ¿El cliente se irá o no?
 
-✅ Modelos recomendados: Modelos de clasificación.
+🔷 Modelos recomendados: Modelos de clasificación.
 
 Probaremos:
 
@@ -30,7 +30,7 @@ Probaremos:
 
  ---
 
-## 🧠 Tareas del Desafío
+## 📝 Tareas del Desafío
 
 ✅ Preparar los datos para el modelado (tratamiento, codificación, normalización).
 
