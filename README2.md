@@ -51,24 +51,7 @@ Probaremos:
 
 ---
 
-## 📂 Estructura del Repositorio
 
-```
-Telecom_X_part_2
-├── data/           # Datos crudos
-├── notebooks/      # Colab
-├── src/            # Código fuente
-├── output/         # Gráficos generados por scripts
-│   ├── exploratory/
-│   └── results/
-├── models/         # modelos generados
-├── docs/           # Documentación
-│   ├── figures/    # Gráficos para documentos
-│   └── report.md
-└── README.md      
-```
-
----
 
 ## ⚙️ Tecnologías Utilizadas
 
@@ -251,9 +234,10 @@ python scripts/predict_from_csv.py --input data/nuevos_clientes.csv
 
 ## 📝 Notas
 
-- Las columnas `Charges.Total` y `Charges.Monthly` fueron evaluadas, y se incluye/excluye según su impacto.
+- Las columnas `Charges.Total` y `Charges.Monthly` fueron evaluadas, y se incluyeron porque daban mejor resultado que al excluirlas.
 - El modelo fue entrenado en un pipeline que realiza todo el preprocesamiento internamente.
 - No es necesario transformar numéricamente las columnas `Yes` / `No`, ya que el pipeline lo hace automáticamente.
+- En datos nuevos se deben ingresar tenure=0, Charges.Total = 0 y Charges.Monthly = 0
 
 ---
 
@@ -266,7 +250,24 @@ https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN
 ```
 
 ---
+## 📂 Estructura del Repositorio
 
+```
+Telecom_X_part_2
+├── data/           # Datos crudos
+├── notebooks/      # Colab
+├── src/            # Código fuente
+├── output/         # Gráficos generados por scripts
+│   ├── exploratory/
+│   └── results/
+├── models/         # modelos generados
+├── docs/           # Documentación
+│   ├── figures/    # Gráficos para documentos
+│   └── report.md
+└── README.md      
+```
+
+---
 ## 📫 Contacto
 
-Para consultas o colaboración: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+Para consultas o colaboración: [tu.email@ejemplo.com](mailto:tu.miguel.toro.romo@gmail.com)
