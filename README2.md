@@ -109,7 +109,13 @@ Telecom_X_part_2
 'Charges.Monthly',
 'Charges.Total'
 ```
+✅ Estos registros tienen la siguiente distribución de Churn:
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1jMXJjFdtjY5aZP7DzgRv-3jmNLmWNpm4" 
+       alt="Importancia de variables" 
+       width="600" />
+</p>
 
 ---
 
