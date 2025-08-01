@@ -139,11 +139,11 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 ### 📊 Matriz de Confusión
 
-
+<p align="center">
  <img src="https://drive.google.com/uc?export=view&id=1KwCMW0Rj9pS1-tPO-7vvLyBlUaUEq00M" 
        alt="Importancia de variables" 
        width="600" />
-
+</p>
 ---
 
 ### 🔢 Métricas
