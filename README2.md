@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Descripción del Desafío
+## 📝 Descripción del Desafío
 
 Este proyecto tiene como objetivo construir un modelo de clasificación que prediga si un cliente abandonará o no los servicios de la compañía, a partir de sus características sociodemográficas y de uso de servicios.
 
