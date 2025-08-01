@@ -23,10 +23,10 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 🔷 Modelos recomendados: Modelos de clasificación.
 
-Probaremos:
+🔷 Probaremos:
 
-*   DecisionTreeClassifier
-*   RandomForestClassifier
+ *   DecisionTreeClassifier
+ *   RandomForestClassifier
 
  ---
 
