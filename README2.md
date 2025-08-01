@@ -81,6 +81,38 @@ Telecom_X_part_2
 
 ---
 
+## 🔍 Análisis preliminar de la información
+
+✅ Disponemos de un conjunto de 7043 registros con información de clientes
+
+✅ Cada registro tiene las siguientes columnas:
+```
+'customerID',
+'Churn',
+'gender',
+'SeniorCitizen',
+'Partner',
+'Dependents',
+'tenure',
+'PhoneService',
+'MultipleLines',
+'InternetService',
+'OnlineSecurity',
+'OnlineBackup',
+'DeviceProtection',
+'TechSupport',
+'StreamingTV',
+'StreamingMovies',
+'Contract',
+'PaperlessBilling',
+'PaymentMethod',
+'Charges.Monthly',
+'Charges.Total'
+```
+
+
+---
+
 ## 🧪 Evaluación de Modelos
 
 Modelos evaluados:
