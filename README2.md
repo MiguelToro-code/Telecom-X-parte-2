@@ -139,7 +139,9 @@ Se construyó un pipeline completo para cada modelo que incluyen:
 
 ### 📊 Matriz de Confusión
 
-![Matriz de confusión](https://drive.google.com/uc?export=view&id=ID_DE_LA_IMAGEN_MATRIZ)
+![Matriz de confusión](https://drive.google.com/uc?export=view&id=1KwCMW0Rj9pS1-tPO-7vvLyBlUaUEq00M)
+
+https://drive.google.com/file/d/1KwCMW0Rj9pS1-tPO-7vvLyBlUaUEq00M/view?usp=sharing
 
 ---
 
