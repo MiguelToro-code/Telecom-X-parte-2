@@ -95,10 +95,11 @@ Probaremos:
 ✅ Estos registros tienen la siguiente distribución de Churn:
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jMXJjFdtjY5aZP7DzgRv-3jmNLmWNpm4" 
+  <img src="https://drive.google.com/uc?export=view&id=1zibE0FeRSsXAllv2Q1LaKqPiueGni8z_" 
        alt="Importancia de variables" 
        width="700" />
 </p>
+
 
 ### ✅ Es un conjunto de datos muy desbalanceado en sus categorías de la variable objetivo Churn
 
