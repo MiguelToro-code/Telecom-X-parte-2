@@ -15,7 +15,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ---
 
-## 🧠 Este es un problema de clasificación binaria.
+## ✔️ Este es un problema de clasificación binaria.
      
 🔷 Variable objetivo binaria (Churn = 1 o 0):
 
