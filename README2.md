@@ -15,6 +15,16 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ---
 
+<div style="background-color: #e8f4fc; padding: 20px; border-radius: 10px; border: 1px solid #3498db;">
+  <p style="color: #2c3e50; font-size: 16px;">📌 <strong>Importante:</strong> Este es un cuadro de información destacada. Puedes incluir:</p>
+  <ul style="color: #2c3e50;">
+    <li>Elementos de lista</li>
+    <li><a href="#" style="color: #2980b9;">Enlaces</a></li>
+    <li>Código: <code>git commit</code></li>
+  </ul>
+</div>
+
+
 ### 🔍 Análisis de Problema.
 
 🔷 Este es un problema de **clasificación binaria**.
