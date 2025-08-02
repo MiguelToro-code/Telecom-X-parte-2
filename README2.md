@@ -15,18 +15,19 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ---
 
-<table style="width:100%; background-color:#fff8e1; border:1px solid #ffc107; border-radius:8px; padding:15px;">
-  <tr>
-    <td>
-      <span style="color:#5e4a00;">⚠️ **Advertencia:**  
-     Este proyecto tiene como objetivo construir un modelo de clasificación que prediga si un cliente abandonará o no los servicios de la compañía, a partir de sus características sociodemográficas y de uso de servicios.
-
-La empresa quiere anticiparse al problema de la cancelación, y debemos construir un pipeline robusto para esta etapa inicial de modelado.
-
-      
-    </td>
-  </tr>
-</table>
+<div style="
+  background: linear-gradient(135deg, #e8f4fc 0%, #d1e7fa 100%);
+  padding: 20px;
+  border-radius: 12px;
+  border-left: 5px solid #3498db;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  margin: 25px 0;
+">
+  <h3 style="margin-top:0; color:#2c3e50;">Título del cuadro</h3>
+  <p style="color:#2c3e50; margin-bottom:0;">
+    Contenido del cuadro con <strong>texto en negrita</strong> y <a href="#" style="color:#2980b9;">enlaces</a>.
+  </p>
+</div>
 
 
 ### 🔍 Análisis de Problema.
