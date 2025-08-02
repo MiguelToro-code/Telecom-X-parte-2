@@ -229,7 +229,7 @@ weighted avg       0.79      0.71      0.73      1409
 import pickle
 import pandas as pd
 
-with open("models/modelo_randomforest.pkl", "rb") as f:
+with open("models/modelo_randomforest_pipeline.pkl", "rb") as f:
     modelo = pickle.load(f)
 
 nuevos_datos = pd.read_csv("data/nuevos_clientes.csv")
