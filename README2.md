@@ -253,7 +253,7 @@ python scripts/predict_from_csv.py --input data/nuevos_clientes.csv
 - Las columnas `Charges.Total` y `Charges.Monthly` fueron evaluadas, y se incluyeron porque daban mejor resultado que al excluirlas.
 - El modelo fue entrenado en un pipeline que realiza todo el preprocesamiento internamente.
 - No es necesario transformar numéricamente las columnas `Yes` / `No`, ya que el pipeline lo hace automáticamente.
-- En datos nuevos se deben ingresar tenure=0, Charges.Total = 0 y Charges.Monthly = 0
+- En datos nuevos se deben ingresar con tenure=0, Charges.Total = 0 y Charges.Monthly = 0
 
 ---
 
