@@ -209,6 +209,16 @@ weighted avg       0.79      0.71      0.73      1409
 
 ---
 
+### 📊 Curva ROC
+
+<p align="center">
+ <img src="https://drive.google.com/uc?export=view&id=1Nhcch6II5I9xTgzKj5ETRBljYeA-R5Ss" 
+       alt="Curva ROC" 
+       width="600" />
+</p>
+
+---
+
 ## 📦 Uso del Modelo Exportado
 
 1. Cargar el modelo con `pickle`
