@@ -15,20 +15,6 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ---
 
-<div style="
-  background: linear-gradient(135deg, #e8f4fc 0%, #d1e7fa 100%);
-  padding: 20px;
-  border-radius: 12px;
-  border-left: 5px solid #3498db;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  margin: 25px 0;
-">
-  <h3 style="margin-top:0; color:#2c3e50;">Título del cuadro</h3>
-  <p style="color:#2c3e50; margin-bottom:0;">
-    Contenido del cuadro con <strong>texto en negrita</strong> y <a href="#" style="color:#2980b9;">enlaces</a>.
-  </p>
-</div>
-
 
 ### 🔍 Análisis de Problema.
 
@@ -111,7 +97,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1zibE0FeRSsXAllv2Q1LaKqPiueGni8z_" 
-       alt="Importancia de variables" 
+       alt="Distribución de Churn" 
        width="700" />
 </p>
 
@@ -218,7 +204,7 @@ weighted avg       0.79      0.71      0.73      1409
 
 <p align="center">
  <img src="https://drive.google.com/uc?export=view&id=1KwCMW0Rj9pS1-tPO-7vvLyBlUaUEq00M" 
-       alt="Importancia de variables" 
+       alt="Matriz de Confusión" 
        width="600" />
 </p>
 
