@@ -15,14 +15,15 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ---
 
-<div style="background-color: #e8f4fc; padding: 20px; border-radius: 10px; border: 1px solid #3498db;">
-  <p style="color: #2c3e50; font-size: 16px;">📌 <strong>Importante:</strong> Este es un cuadro de información destacada. Puedes incluir:</p>
-  <ul style="color: #2c3e50;">
-    <li>Elementos de lista</li>
-    <li><a href="#" style="color: #2980b9;">Enlaces</a></li>
-    <li>Código: <code>git commit</code></li>
-  </ul>
-</div>
+<table style="width:100%; background-color:#fff8e1; border:1px solid #ffc107; border-radius:8px; padding:15px;">
+  <tr>
+    <td>
+      <span style="color:#5e4a00;">⚠️ **Advertencia:**  
+      Este formato permite mayor control del diseño.  
+      Puedes incluir <a href="#" style="color:#d35400;">enlaces</a> y otros elementos.</span>
+    </td>
+  </tr>
+</table>
 
 
 ### 🔍 Análisis de Problema.
