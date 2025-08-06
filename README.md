@@ -62,11 +62,13 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ## ⚙️ Tecnologías Utilizadas
 
-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> Python 3.11.13 - Lenguaje principal
-- pandas, numpy - Manipulación de datos
-- scikit-learn - Machine Learning
-- imbalanced-learn - Machine Learning
-- matplotlib, seaborn - Visualización
+- Python 3.11.13 - Lenguaje principal
+- pandas 2.2.2, numpy 2.0.2- Manipulación de datos
+- scikit-learn 1.6.1 - Machine Learning
+- Statsmodels 0.14.5 - Machine Learning
+- ImbLearn 0.13.0 - Machine Learning
+- Scipy 1.16.1 - Machine Learning
+- matplotlib 3.10.0, seaborn 0.13.2 - Visualización
 - Google Colab - Entorno de ejecución
 
 ---
