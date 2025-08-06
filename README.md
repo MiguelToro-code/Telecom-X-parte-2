@@ -28,7 +28,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 🔷 Variable objetivo binaria (Churn = 1 o 0): ¿El cliente se irá o no?
 
-🔷 Modelos recomendados: Modelos de clasificación.
+🔷 Modelos recomendados: **Modelos de clasificación**.
 
 🔷 Probaremos:
 
