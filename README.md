@@ -34,6 +34,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
  *   DecisionTreeClassifier
  *   RandomForestClassifier
+ *   CatBoost
 
  ---
 
