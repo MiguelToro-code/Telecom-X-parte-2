@@ -144,6 +144,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
  - `RandomForestClassifier`
  - `DecisionTreeClassifier`
+ - `CatBoost`
 
 🔷 Se construyó un pipeline completo para cada modelo que incluyen:
 
