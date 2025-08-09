@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1l5Ux2MaZCnJ7gHQSGb_vhqE_KR66PGio" 
        alt="Imagen de portada" 
-       width="500" />
+       width="600" />
 </p>
 
 **Autor:** Miguel Ángel Toro Romo  
