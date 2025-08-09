@@ -202,6 +202,7 @@ weighted avg       0.81      0.69      0.71      1409
 ### **`RandomForestClassifier`**
 - En función de las métricas obtenidas en los entrenamientos de los modelos, se elige este modelo como el más eficiente para la clasificación de la clase 1 (clientes que abandonan).
 - Mejores parámetros RandomForest:
+```
     'n_estimators': 100
     'max_depth': 10
     'min_samples_split': 5
@@ -210,6 +211,7 @@ weighted avg       0.81      0.69      0.71      1409
     'bootstrap': True
     'class_weight': {0: 1, 1: 3}
     'random_state': 42
+```
 ---
 
 
