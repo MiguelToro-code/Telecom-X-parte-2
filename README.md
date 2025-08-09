@@ -148,7 +148,7 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 🔷 Se construyó un pipeline completo para cada modelo que incluyen:
 
- - Eliminación de columnas irrelevantes (`customerID`, `tenure`)
+ - Eliminación de columnas irrelevantes (`customerID`, `tenure`, `Charges.Monthly`)
  - Codificación categórica con `OneHotEncoder` 
 - Balanceo de clases con `class_weight='balanced` para `RandomForestClassifier` y `SMOTE` para `DecisionTreeClassifier`
 - Validación cruzada (`StratifiedKFold`)
@@ -157,31 +157,42 @@ La empresa quiere anticiparse al problema de la cancelación, y debemos construi
 
 ### 🔢 Métricas
 
-🔷 DecisionTreeClassifier con datos balanceados con `SMOTE`.
+🔷 DecisionTreeClassifier optimizado y balanceado con `SMOTE`.
 
 ```
               precision    recall  f1-score   support
 
-           0       0.86      0.79      0.83      1035
-           1       0.53      0.66      0.59       374
+           0       0.91      0.70      0.79      1552
+           1       0.49      0.80      0.61       561
 
-    accuracy                           0.76      1409
-   macro avg       0.70      0.72      0.71      1409
-weighted avg       0.78      0.76      0.76      1409
-
+    accuracy                           0.73      2113
+   macro avg       0.70      0.75      0.70      2113
+weighted avg       0.80      0.73      0.74      2113
 ```
 
-
-🔷RandomForestClassifier con `class_weight='balanced`.
+🔷CatBoost optimizado y balanceado con `weight_ratio` calculado.
 ```
               precision    recall  f1-score   support
 
-          No       0.91      0.67      0.77      1035
-         Yes       0.47      0.81      0.60       374
+           0       0.91      0.73      0.81      1035
+           1       0.52      0.80      0.63       374
 
-    accuracy                           0.71      1409
-   macro avg       0.69      0.74      0.69      1409
-weighted avg       0.79      0.71      0.73      1409
+    accuracy                           0.75      1409
+   macro avg       0.72      0.77      0.72      1409
+weighted avg       0.81      0.75      0.76      1409
+
+```
+
+🔷RandomForestClassifier optimizado y balanceado con `class_weight` ='balanced'
+```
+              precision    recall  f1-score   support
+
+           0       0.94      0.63      0.75      1035
+           1       0.46      0.88      0.60       374
+
+    accuracy                           0.69      1409
+   macro avg       0.70      0.75      0.68      1409
+weighted avg       0.81      0.69      0.71      1409
 
 ```
 ---
